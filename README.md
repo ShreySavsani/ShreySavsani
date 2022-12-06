@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @ShreySavsani
-- 👀 I’m interested in ML, AI
-- 🌱 I’m currently learning AI
-- 💞️ I’m looking to collaborate on various small ML and AI Projects
-- 📫 Ping me here.
+- 👀 Data Engineer
 
 <!---
 ShreySavsani/ShreySavsani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
